@@ -2,7 +2,9 @@
 Real Time fall detection for surveillance.
 
 #Depends
-\nOpencv
-\nOpenvino
-\nPython
-\nPytorch
+Opencv
+Openvino
+SuperGradients
+Roboflow
+Python
+Pytorch
