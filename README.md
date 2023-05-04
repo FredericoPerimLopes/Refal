@@ -1,4 +1,4 @@
-Refal: Real-time Vision Human Fall Detector
+# Refal: Real-time Vision Human Fall Detector
 Refal is a software project that uses computer vision and deep learning techniques to detect human falls in real-time. The project is designed to work with live video streams from cameras and provides real-time alerts when a fall is detected. The project has several dependencies, which include OpenCV, OpenVINO, Supergradients, Roboflow, and Python.
 
 Dependencies
